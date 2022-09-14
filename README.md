@@ -6,7 +6,7 @@ Essa aplicação faz a geração automática de senha numérica de 8 dígitos e 
 
 ## Como executar essa aplicação
 
-Para usar essa aplicação é só fazer o dowload do repositório
+Para usar essa aplicação é só fazer o dowload do repositório e abrir o indix.html no navegador de sua preferência.
 
 ## Como usar
 
