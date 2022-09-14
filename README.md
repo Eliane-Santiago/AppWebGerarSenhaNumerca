@@ -1,4 +1,4 @@
-# App Gerado de Senha Númerica
+# App Gerador de Senha Númerica
 
 <img src="https://github.com/Eliane-Santiago/AppWebCalculadora/blob/main/Foto_calc.png" />
 
