@@ -1,6 +1,6 @@
 # App Gerador de Senha Númerica
 
-<img src="https://github.com/Eliane-Santiago/AppWebCalculadora/blob/main/Foto_calc.png" />
+<img src="https://github.com/Eliane-Santiago/AppWebGerarSenhaNumerca/blob/main/geradorSenhaNumerica.png" />
 
 Essa aplicação faz a geração automática de senha numérica de 8 dígitos e serão apenas composta por números (0, 1, 2, 3, 4, 5, 6, 7, 8, 9).
 
